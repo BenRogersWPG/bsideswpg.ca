@@ -1,4 +1,4 @@
-bsideswpg_website
-=================
+bsideswpg.ca
+============
 
-BSidesWpg website
+BSides Winnipeg website. Everything is in the gh-pages branch.
